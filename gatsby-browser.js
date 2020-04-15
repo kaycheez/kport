@@ -1,7 +1,17 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/browser-apis/
- */
+// import React from 'react'
+// import "typeface-lato";
 
-// You can delete this file if you're not using it
+// import { SlidesProvider } from 'src/context'
+// import {Layout} from 'components/Layout'
+
+// export const wrapPageElement = ({ element, ...restProps }, ...args) => {
+//   return (
+//     <Layout name="wrapRootElement" props={restProps} args={args} mode="browser">
+//       {element}
+//     </Layout>
+//   );
+// };
+
+// export const wrapRootElement = ({ element }) => (
+//   <SlidesProvider>{element}</SlidesProvider>
+// )
